@@ -27,7 +27,7 @@ export function App() {
           <p>
             Edit{" "}
             <code className="relative rounded bg-muted px-[0.3rem] py-[0.2rem] font-mono text-sm">src/App.tsx</code> and
-            save to test HMR
+            save to test HMR Coolc
           </p>
           <APITester />
         </CardContent>
